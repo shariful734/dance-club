@@ -1,23 +1,58 @@
 import logo from './logo.svg';
 import './App.css';
 
+// bootstrap css
+
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+import Header from './Components/Header/Header';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import Home from './Components/Home/Home';
+import Courses from './Components/Courses/Courses';
+
+import About from './Components/About/About';
+import NotFound from './Components/NotFound/NotFound';
+import Instractors from './Components/Instractor/Instractors';
+import HomeSecondPart from './Components/HomeSecondPart/HomeSecondPart';
+
+
+
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+
+      <Router>
+        <Header></Header>
+        <Switch>
+
+          <Route exact path="/">
+            <Home></Home>
+            <HomeSecondPart></HomeSecondPart>
+          </Route>
+
+          <Route path="/Home">
+            <Home></Home>
+          </Route>
+
+          <Route path="/Courses">
+            <Courses></Courses>
+          </Route>
+
+          <Route path="/Instractor">
+            <Instractors></Instractors>
+          </Route>
+
+          <Route path="/About">
+            <About></About>
+          </Route>
+
+          <Route path="*">
+            <NotFound></NotFound>
+          </Route>
+          <Route></Route>
+        </Switch>
+      </Router>
+
     </div>
   );
 }

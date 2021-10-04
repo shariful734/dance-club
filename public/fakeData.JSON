@@ -1,0 +1,83 @@
+[
+    {
+        "courseName": "Salsa Dance",
+        "courseId": 1,
+        "courseImg": "http://www.differencebetween.info/sites/default/files/images/2/salsa(2).jpg",
+        "description": "Salsa is very popular genre of dance from the Caribbean with salsa music. Salsa is normally a partner dance, although there are recognized solo forms such as solo dancing suelta and Rueda de Casino where multiple couples exchange partners in a circle.",
+        "price": 200,
+        "instructor": "John Cena",
+        "instructorImg": "https://m.media-amazon.com/images/M/MV5BMTQ5MzkzNTIyN15BMl5BanBnXkFtZTYwNzUzOTA2._V1_UY1200_CR85,0,630,1200_AL_.jpg"
+    },
+    {
+        "courseName": "Ballroom Dance",
+        "courseId": 2,
+        "courseImg": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMjEwOTIwMS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTY1ODY2NTY3NH0.nAne0EyugRAK094XnujxHMvS5Fn22Ke02ITuUcyQdYc/img.jpg?width=824&quality=80",
+        "description": "Ballroom dance is a type of partner dance originating at the end of the sixteenth century in France. Commonly used as shorthand for any partner dance, ballroom has today evolved into two main subgenres – standard/smooth and Latin/rhythm.",
+        "price": 300,
+        "instructor": "Aron Ding",
+        "instructorImg": "https://cdn.pixabay.com/photo/2020/09/18/22/05/man-5583034_960_720.jpg"
+    },
+    {
+        "courseName": "Contemporary Dance",
+        "courseId": 3,
+        "courseImg": "https://images.unsplash.com/photo-1550026593-cb89847b168d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y29udGVtcG9yYXJ5JTIwZGFuY2V8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+        "description": "Developed during the mid-twentieth century, contemporary dance is now one of the most popular and technical forms of dance studied and performed professionally, especially in the US and Europe.",
+        "price": 220,
+        "instructor": "jeson khan",
+        "instructorImg": "https://www.kindpng.com/picc/m/145-1454797_man-professional-website-design-application-development-business-man.png"
+    },
+    {
+        "courseName": "Hip-Hop Dance",
+        "courseId": 4,
+        "courseImg": "https://i.pinimg.com/originals/fb/49/a2/fb49a277041fa454ca4fdc279c3e826b.jpg",
+        "description": "Hip-hop dancing refers to a range of street dances that developed in relation to hip hop music and culture. Hip-hop dancing dates back to the early 1970s in New York and California, evolving out of Funk and the development of break beat.",
+        "price": 400,
+        "instructor": "Maria Kinston",
+        "instructorImg": "https://images.unsplash.com/photo-1581065178047-8ee15951ede6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cHJvZmVzc2lvbmFsJTIwd29tYW58ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+    },
+    {
+        "courseName": "Jazz Dance",
+        "courseId": 5,
+        "courseImg": "https://carolinadancecapital.com/wp-content/uploads/2015/10/1859561751-1080x720.jpg",
+        "description": "Jazz dancing has its roots in seventeenth-century African traditions, brought to the Americas via the Atlantic slave trade as slaves continued dancing traditions in Brazil, the US and elsewhere on the continents.",
+        "price": 1700,
+        "instructor": "Billy Owens",
+        "instructorImg": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZmVzc2lvbmFsJTIwbWFufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+    },
+    {
+        "courseName": "Tap Dancing",
+        "courseId": 6,
+        "courseImg": "https://journalletour.com/wp-content/uploads/2017/08/Andrea-and-Dwayne-e1502464583674.jpg",
+        "description": "Tap dancing is a type of percussive dance characterised by the “tap” of shoes hitting the floor as the person dances. Tap dancers often wear metal “taps” on the heel and toe of a shoe to accentuate the sound.",
+        "price": 350,
+        "instructor": "John Kent",
+        "instructorImg": "https://cdn.pixabay.com/photo/2019/07/13/11/45/black-professional-4334648_960_720.jpg"
+    },
+    {
+        "courseName": "Folk Dance",
+        "courseId": 7,
+        "courseImg": "https://eaff.eu/cache/images/festivals/725/900x500cw/725-2.JPG",
+        "description": "Folk dancing is celebrated worldwide with people of different cultures and religions using various forms of folk dance to portray emotions, stories, historical events or even aspects of daily life",
+        "price": 550,
+        "instructor": "Maria Jones",
+        "instructorImg": "https://previews.123rf.com/images/phartisan/phartisan1707/phartisan170700034/82717845-professional-business-woman.jpg"
+    },
+    {
+        "courseName": "Irish Dance",
+        "courseId": 8,
+        "courseImg": "https://i2.wp.com/babylonradio.com/wp-content/uploads/2020/07/riverdance.jpg?resize=640%2C400&ssl=1",
+        "description": "Originating in Ireland, this form of traditional dance has been popular for hundreds of years amongst Irish people and other countries worldwide. Popularised by shows such as Riverdance, Irish dancing is famously known for its fabulous display of footwork and dance formations.",
+        "price": 400,
+        "instructor": "Lily and Steve",
+        "instructorImg": "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX35175373.jpg"
+    },
+    {
+        "courseName": "Ballet Dance",
+        "courseId": 9,
+        "courseImg": "https://lh3.googleusercontent.com/proxy/BabKcz0necGEDP-SW_MZr_MEAu1FkhZIkC8S1McVawmE4V6mj-kr3Njo993sSdloPhGkvKoi9GHMm0y2jzYjYhyECT6AxCXiA8a3no7NbwmDSJ7kdpSbXJbPkwm5NB4hfHpdkm8gl5GekeHFbA",
+        "description": "Ballet dance developed during the Italian Renaissance, before evolving in France and Russia into a concert dance meant for public performance. This is in the form of a ballet, in which the dance is choreographed with classical music.",
+        "price": 200,
+        "instructor": "Carla Smith",
+        "instructorImg": "https://images.unsplash.com/photo-1608504174559-b9eeee51c568?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YnVzaW5lc3MlMjB3b21hbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+    }
+]
