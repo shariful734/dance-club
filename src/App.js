@@ -12,8 +12,9 @@ import Courses from './Components/Courses/Courses';
 
 import About from './Components/About/About';
 import NotFound from './Components/NotFound/NotFound';
-import Instractors from './Components/Instractor/Instractors';
+import Instractors from './Components/Instractors/Instractors';
 import HomeSecondPart from './Components/HomeSecondPart/HomeSecondPart';
+import Footer from './Components/Footer/Footer';
 
 
 
@@ -49,8 +50,9 @@ function App() {
           <Route path="*">
             <NotFound></NotFound>
           </Route>
-          <Route></Route>
+
         </Switch>
+        <Footer></Footer>
       </Router>
 
     </div>

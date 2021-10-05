@@ -1,18 +1,13 @@
-import './HomeCourse.css';
-
+import './Course.css';
 import React from 'react';
-import { Card, Col, } from 'react-bootstrap';
+import { Card, Col } from 'react-bootstrap';
 
-const HomeCourse = (props) => {
+const Course = (props) => {
 
     const { courseName, courseImg, description, price } = props.course;
-
     return (
-        <div>
-
-
-
-            <Col xs={2} md={4} className="ms-3">
+        <div className="course-card">
+            <Col xs={2} md={4} className="ms-3 mt-4">
                 <Card className="card" style={{ width: '19rem' }}>
                     <Card.Img variant="top" className="course-img" src={courseImg} />
                     <Card.Body>
@@ -26,10 +21,8 @@ const HomeCourse = (props) => {
                     </Card.Body>
                 </Card>
             </Col>
-
-
         </div>
     );
 };
 
-export default HomeCourse;
+export default Course;
